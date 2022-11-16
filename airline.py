@@ -15,3 +15,4 @@ def airlineInfo(code):
     print("Name of Airline: " + parsed['name'])
     print("Country Code:    " + parsed['alpha3countryCode'])
     print("############################")
+    print("The Collegue was here")
